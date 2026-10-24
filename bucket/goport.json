@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Open-source ngrok alternative using TCP multiplexing (yamux). Expose local ports to the internet.",
     "homepage": "https://goport.uz",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/muhammad-deve/GoPort/releases/download/v0.2.0/goport-windows-amd64.exe",
-            "hash": "4581ba4226eb4b08162b3029c6dbad2118b40630d74be9ff4ce2cdda66d7c044"
+            "url": "https://github.com/muhammad-deve/GoPort/releases/download/v0.2.1/goport-windows-amd64.exe",
+            "hash": "57db4686b80ea98811f16af0e0df04b1f39058519580f8d6c9dd5577eb6a8ac2"
         }
     },
     "bin": [
